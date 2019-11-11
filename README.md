@@ -1,1 +1,1 @@
-testi
+Ohtu viikk0 2, tehtävä 1 gradle treeni
