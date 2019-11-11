@@ -1,1 +1,1 @@
-Ohtu viikk0 2, tehtävä 1 gradle treeni
+Ohtu viikko 2, tehtävä 1 gradle treeni
